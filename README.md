@@ -12,8 +12,7 @@ This is because with the emoji, they do not need to express their emotion with w
 ![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/sentiment%20analysis%20of%20whether%20has%20the%20emoji.png)
 #### - 2.2 The comparison for picture counts in the tweets of having and not having emoji
 These graphs shows that the proportion of having pictures for the no emoji tweets is high, this is becuase no emoji tweets need the pics and links to express their emotion which can be treated as a substitution for emoji.
-![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/Tweetswithnoemoji.png)
-![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/tweetswithemoji.png)
+![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/Tweetswithnoemoji.png)![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/tweetswithemoji.png)
 
 #### - 2.3 The comparison for word frequency in the tweets of having and not having emoji
 In the tweet with emoji, the most popular word is "restaurant";"people""tweet""lol""love"
