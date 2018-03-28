@@ -9,7 +9,7 @@ using the streaming api to capture 15000 tweets about( key word: restaurant)
 using steam api to capture 15000 tweets and filter the ones has emoji and not has
 From this graph, we can see the sentiment expression of tweets without emoji is much strong than the tweets with emoji.
 This is because with the emoji, they do not need to express their emotion with words. So the sentiment analysis for the tweets with emoji will be much weaker
-(https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/sentiment%20analysis%20of%20whether%20has%20the%20emoji.png)
+![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/sentiment%20analysis%20of%20whether%20has%20the%20emoji.png)
 #### - 2.2 The comparison for picture counts in the tweets of having and not having emoji
 These graphs shows that the proportion of having pictures for the no emoji tweets is high, this is becuase no emoji tweets need the pics and links to express their emotion which can be treated as a substitution for emoji.
 
