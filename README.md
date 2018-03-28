@@ -1,4 +1,4 @@
-# sentimental-analysis-restaurant-tweets-with-without-emoji-analysis
+# Sentimental-Analysis-Restaurant-Tweets-With-or-Without-Emoji-Analysis
 using the streaming api to capture 15000 tweets about( key word: restaurant)
 
 ## Assignment Steps:
