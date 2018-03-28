@@ -27,7 +27,7 @@ It shows that the tweets with emoji more likely to express their emotion; howeve
 by selecting the emoji tweet, i identified most popular use emoji in the tweet: face with tear of joy
 ![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/Themostfrequentemoji.png)
 
-#### - 2.5 sentiment correlation analysis tweets of tear of joy
-from the graph, we can conclude that the sentiment analysis is correlated with the emoji. Because the sentiment analysis shows the positime and joy is substantial which is what the emoji of tear of joy expressing
+#### - 2.5 sentiment correlation analysis tweets of tear of joy(😂)
+from the graph, we can conclude that the sentiment analysis is correlated with the emoji. Because the sentiment analysis shows the positime and joy is substantial which is what the emoji of tear of joy expressing😂
 ![Visulization Map](https://github.com/fangnandu/sentimental-analysis-restaurant-tweets-with-without-emoji-analysis/blob/master/Tearofjoy.png)
 
